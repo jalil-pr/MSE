@@ -61,38 +61,6 @@
             "budgetType": "ALLOTMENT1",
             "depetOrcredit": "credit",
             "gni_virement_voucher_virement_voucherUpdateType": "some string"
-    
-        },
-        {
-            "id": 2,
-            "code": "some name2",
-            "fiscalYear": "some description2",
-            "budgetControlType": "ALLOTMENT1",
-            "active": true,
-            "isWithinProgram": true,
-            "description": "some string description2",
-            "balanced": true,
-            "linkedWith": "some string2",
-            "budgetType": "ALLOTMENT1",
-            "depetOrcredit": "credit",
-            "gni_virement_voucher_virement_voucherUpdateType": "some string"
-        }
-    ],
-     "BCUpdateVoucherClassifications": [
-        {
-            "id": 1,
-            "code": "some name",
-            "fiscalYear": "some description",
-            "budgetControlType": "ALLOTMENT1",
-            "active": true,
-            "isWithinProgram": true,
-            "description": "some string description",
-            "balanced": true,
-            "linkedWith": "some string",
-            "budgetType": "ALLOTMENT1",
-            "depetOrcredit": "credit",
-            "gni_virement_voucher_virement_voucherUpdateType": "some string"
-    
         },
         {
             "id": 2,
@@ -116,7 +84,6 @@
             "active": true,
             "name": "some name",
             "description": "Description "
-    
         },
         {
             "id": 87987569,
@@ -125,25 +92,5 @@
             "name": "some name 2",
             "description": "Description2 "
         }
-    ],
-    "BCCriteriaDefinitions": [
-        {
-            "id": 879879,
-            "appId": "sort of string",
-            "fiscalYear": "1400",
-            "budgetControlType": "ALLOTMENT1 ",
-            "description": "Description to budget criteria def "
-    
-        },
-        {
-            "id": 8799,
-            "appId": "application id",
-            "fiscalYear": "1398",
-            "budgetControlType": "ALLOTMENT1 ",
-            "description": "Description to budget criteria def "
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
